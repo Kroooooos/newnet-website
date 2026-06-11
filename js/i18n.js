@@ -4,6 +4,7 @@ const I18N = {
     "nav.about": "关于我们",
     "nav.services": "产品与服务",
     "nav.solutions": "解决方案",
+    "nav.certs": "资质证书",
     "nav.cases": "成功案例",
     "nav.contact": "联系我们",
 
@@ -81,6 +82,20 @@ const I18N = {
     "team.title": "专业的中泰双语交付团队",
     "team.desc": "中泰双项目经理制，技术主管与施工队长均持有行业认证，施工高峰期单队可扩充至 10 人，全程执行安全施工与质量管控流程。",
 
+    "certs.kicker": "资质与授权",
+    "certs.title": "原厂授权代理，资质齐全",
+    "certs.c1": "海康威视战略解决方案合作伙伴",
+    "certs.c2": "联想 360 智能设备金牌合作伙伴",
+    "certs.c3": "戴尔授权合作伙伴",
+    "certs.c4": "锐捷网络银牌合作伙伴（2026）",
+    "certs.c5": "深信服认证经销商",
+    "certs.c6": "信锐技术金牌代理（2026）",
+    "certs.c7": "中控智慧系统集成商认证",
+    "certs.c8": "MAXHUB 代理证书（2026）",
+    "certs.c9": "LINK 授权证书",
+    "certs.c10": "泰国 NBTC 经营许可证（2025）",
+    "certs.hint": "点击证书可查看大图",
+
     "cases.kicker": "成功案例",
     "cases.title": "规范施工 · 整洁交付",
     "cases.c1": "机房机柜安装规范美观，走线整齐清晰",
@@ -106,6 +121,7 @@ const I18N = {
     "nav.about": "About Us",
     "nav.services": "Products & Services",
     "nav.solutions": "Solutions",
+    "nav.certs": "Certificates",
     "nav.cases": "Case Studies",
     "nav.contact": "Contact",
 
@@ -182,6 +198,20 @@ const I18N = {
 
     "team.title": "A Professional Bilingual Delivery Team",
     "team.desc": "Dual Chinese-Thai project management, with certified technical supervisors and construction team leaders. Each team can scale up to 10 workers at peak, with full safety and quality control procedures throughout.",
+
+    "certs.kicker": "Certificates & Authorisations",
+    "certs.title": "Fully Authorised by Original Manufacturers",
+    "certs.c1": "Hikvision Strategy Solution Partner",
+    "certs.c2": "Lenovo 360 Intelligent Devices Gold Partner",
+    "certs.c3": "Dell Authorised Partner",
+    "certs.c4": "Ruijie Networks Silver Partner (2026)",
+    "certs.c5": "Sangfor Certified Reseller",
+    "certs.c6": "Sundray Gold Partner (2026)",
+    "certs.c7": "ZKTeco Certified System Integrator",
+    "certs.c8": "MAXHUB Authorised Agent (2026)",
+    "certs.c9": "LINK Certificate of Authorisation",
+    "certs.c10": "NBTC Trading Licence, Thailand (2025)",
+    "certs.hint": "Click a certificate to enlarge",
 
     "cases.kicker": "Case Studies",
     "cases.title": "Standardised Construction · Clean Delivery",

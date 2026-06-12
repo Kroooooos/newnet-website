@@ -6,6 +6,7 @@ const I18N = {
     "nav.solutions": "解决方案",
     "nav.certs": "资质证书",
     "nav.cases": "成功案例",
+    "nav.clients": "服务客户",
     "nav.contact": "联系我们",
 
     "hero.kicker": "立足泰国 · 服务东南亚",
@@ -105,11 +106,20 @@ const I18N = {
     "cases.c5": "CCTV 监控系统与电视墙",
     "cases.c6": "工厂园区 24×7×365 周界监控",
 
+    "clients.kicker": "服务客户",
+    "clients.title": "服务在泰大型中资企业",
+    "clients.g1": "轮胎行业",
+    "clients.g2": "光伏行业",
+    "clients.g3": "汽车行业",
+    "clients.g4": "家电行业",
+    "clients.g5": "PCB 行业",
+
     "contact.kicker": "联系我们",
     "contact.title": "期待与您合作",
-    "contact.personK": "联系人",
+    "contact.cnK": "中文联系人",
+    "contact.cnName": "吕玉华",
+    "contact.enK": "英文联系人",
     "contact.phoneK": "电话",
-    "contact.emailK": "邮箱",
     "contact.addrK": "总部",
     "contact.addrV": "泰国 罗勇府（Rayong, Thailand）",
 
@@ -123,6 +133,7 @@ const I18N = {
     "nav.solutions": "Solutions",
     "nav.certs": "Certificates",
     "nav.cases": "Case Studies",
+    "nav.clients": "Clients",
     "nav.contact": "Contact",
 
     "hero.kicker": "Based in Thailand · Serving Southeast Asia",
@@ -222,11 +233,20 @@ const I18N = {
     "cases.c5": "CCTV surveillance system and video wall",
     "cases.c6": "24×7×365 perimeter monitoring for factory campuses",
 
+    "clients.kicker": "Our Clients",
+    "clients.title": "Serving Leading Chinese Enterprises in Thailand",
+    "clients.g1": "Tire Industry",
+    "clients.g2": "Solar PV Industry",
+    "clients.g3": "Automotive Industry",
+    "clients.g4": "Home Appliances",
+    "clients.g5": "PCB Industry",
+
     "contact.kicker": "Contact Us",
     "contact.title": "We Look Forward to Working with You",
-    "contact.personK": "Contact Person",
+    "contact.cnK": "Contact (Chinese)",
+    "contact.cnName": "Lyu Yuhua",
+    "contact.enK": "Contact (English)",
     "contact.phoneK": "Phone",
-    "contact.emailK": "Email",
     "contact.addrK": "Headquarters",
     "contact.addrV": "Rayong, Thailand",
 
